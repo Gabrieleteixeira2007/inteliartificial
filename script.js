@@ -75,3 +75,6 @@ function respostaSelecionada(opcaoSelecionada){
 }
 
 mostraPergunta();
+//tivas: [
+    
+       
