@@ -1,6 +1,11 @@
 :root{
+<<<<<<< HEAD
+    --cor-fundo: #5a0553;
+    --cor-principal: #e308ee ;
+=======
     --cor-fundo: #0e010d;
     --cor-principal: #830d8a ;
+>>>>>>> 
     --cor-secundaria: #970689;
     --cor-destaque: #2BDEFD;
     --cor-texto: #D7F9FF;
